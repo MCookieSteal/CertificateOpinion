@@ -37,7 +37,6 @@ Para mí, lo más complicado fue no poder usar mi máquina virtual ni mis herram
   Ni mencionar cabe que en el examen es posible que te atasques, como fue mi caso, pero lo importante en esos casos es levantarte tomar un poco de aire y seguir. Esto es algo que mucha gente no le da importancia, entre ellos yo, pero en este certificado me di cuenta que es mas que necesario tomar un poco de aire para seguir (personalmente una ducha me refresca las ideas).
 
 ---
-___
 
 ## 4. Recomendaciones y consejos para el examen
 
