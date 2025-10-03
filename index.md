@@ -34,9 +34,10 @@ Aquí viene lo divertido (y el estrés): el examen es 100% práctico y te dan 24
 - **Retos principales:**  
 Para mí, lo más complicado fue no poder usar mi máquina virtual ni mis herramientas del dia a dia. Yo estoy acostumbrado a mi Kali con algunas herramientas nuevas o que me gustan mas, y en el examen tienes que apañarte con lo que hay en la máquina del examen que son más que suficientes para aporbar (importante mirar el contenido de INE para saber que herramientas son). Cambia mucho la película y te obliga a improvisar y buscar soluciones con lo que tienes a mano que es tambien lo que se busca con este tipo de examenes.
 
-Ni mencionar cabe que en el examen es posible que te atasques, como fue mi caso, pero lo importante en esos casos es levantarte tomar un poco de aire y seguir. Esto es algo que mucha gente no le da importancia, entre ellos yo, pero en este certificado me di cuenta que es mas que necesario tomar un poco de aire para seguir (personalmente una ducha me refresca las ideas).
+  Ni mencionar cabe que en el examen es posible que te atasques, como fue mi caso, pero lo importante en esos casos es levantarte tomar un poco de aire y seguir. Esto es algo que mucha gente no le da importancia, entre ellos yo, pero en este certificado me di cuenta que es mas que necesario tomar un poco de aire para seguir (personalmente una ducha me refresca las ideas).
 
 ---
+___
 
 ## 4. Recomendaciones y consejos para el examen
 
@@ -53,10 +54,11 @@ Bajo mi experiencia en el examen, gran parte de las veces se tenían que utiliza
   - xato-1000...txt
   - Rockyou.txt (este como última opción)
 
+
 - **Consejo 4: Leer y contestar las preguntas**  
 Mucha gente te dirá que tomes apuntes y al final respondas las preguntas, pero personalmente eso a mí no me gusta. Prefiero responder las preguntas mientras voy haciendo el examen y solo responder aquellas de las que estoy 100% seguro, así voy reduciendo las 45 preguntas; eso sí, por favor, no por responder la pregunta dejes de recoger las evidencias. Esto no solo me ayudó a ir más rápido en el examen, sino que cuando te sientes atascado puedes leer las preguntas, donde se te proporciona muchísimas pistas. Por ejemplo, "¿Cuántos usuarios Kerberoastables hay?", con eso sabemos lo que tenemos que mirar. Aunque esto te ayude, no te confíes del todo, ya que no te ayudará a hacer el examen, pero sí a darte alguna pista o desatascarte.
 
-Por otra parte, es importante que antes de entregar el examen respondas a todas las preguntas. Es poco probable que adivines alguna de manera aleatoria y que te la cuenten como buena, pero es mejor eso que dejarlas en blanco. Además, recuerda que el examen se aprueba con un 70% de respuestas correctas, es decir, 32 preguntas correctas; no necesitas el 100% (aunque después del curro que lleva prepararlo, todos queremos ese 100%).
+  Por otra parte, es importante que antes de entregar el examen respondas a todas las preguntas. Es poco probable que adivines alguna de manera aleatoria y que te la cuenten como buena, pero es mejor eso que dejarlas en blanco. Además, recuerda que el examen se aprueba con un 70% de respuestas correctas, es decir, 32 preguntas correctas; no necesitas el 100% (aunque después del curro que lleva prepararlo, todos queremos ese 100%).
 
 - **Consejo 5: Porcentajes y máquinas**  
 No sé si todos los exámenes son iguales o si en el caso del "re-take" el examen es el mismo (yo aprobé a la primera), pero en mi examen el 30% era explotación sobre Linux y el 70% sobre Active Directory. Eso sí, bajo mi experiencia, casi la mitad (un 40% aprox.) de las preguntas fueron sobre Linux, es decir, que si eres capaz de "rootearlo", tendrás mucho hecho para llegar al 70%, por eso recomiendo que empecemos por esta máquina y os la quitéis de encima.
