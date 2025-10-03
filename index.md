@@ -1,12 +1,13 @@
 <head>
   <style>
-    body, main, article {
+    .markdown-body {
       max-width: 70%;
-      margin: auto;
+      margin-left: auto;
+      margin-right: auto;
       text-align: justify;
     }
     @media (prefers-color-scheme: dark) {
-      body, main, article {
+      .markdown-body {
         background: #181818 !important;
         color: #e0e0e0 !important;
         text-align: justify;
