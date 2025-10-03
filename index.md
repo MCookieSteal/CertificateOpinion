@@ -12,6 +12,8 @@
   </style>
 </head>
 
+<div style="text-align: justify; max-width: 900px; margin: auto;">
+
 ## 1. Introducción  
 Buenas a todos, hoy quiero comentaros un poco acerca del certificado de INE, el eCPPTv3.  
 La verdad, cuando empecé con esto no tenía muy claro si realmente valía la pena invertir tiempo y dinero en otro papelito más, pero después de pasar por todo el proceso, tengo algunas cosas que creo que pueden ayudaros si estáis dudando.  
@@ -99,6 +101,8 @@ Creo que no se me olvida mencionar nada respecto a lo que entra y lo que no, as�
 Después de todo el proceso, puedo decir que el eCPPTv3 es una certificación muy completa para aprender pentesting de forma práctica y realista, pero no la recomiendo para principiantes. Si buscas una experiencia donde realmente tengas que pensar, investigar y aplicar lo que has aprendido, creo que esta certificación te va a aportar bastante. El examen, aunque intenso, está muy bien planteado y te obliga a salir de la zona de confort.
 
 En cuanto a nivel, por lo que he hablado con compañeros y lo que he podido comparar, el eCPPTv3 está bastante cerca del OSCP en cuanto a contenido, pero con la ventaja de ser más asequible económicamente y algo más flexible en la realización del examen. Así que si tienes claro que quieres mejorar tus habilidades prácticas en pentesting y buscas una alternativa al OSCP, esta es una opción que merece la pena. Eso sí, prepárate para trabajar y no subestimes el temario ni el examen.
+
+</div>
 
 Al final, como en todo, lo que cuenta es lo que aprendes y cómo lo aplicas. El certificado está bien para LinkedIn y para el trabajo, pero la verdadera satisfacción viene de superar el reto y sentir que eres capaz de enfrentarte a entornos reales. ¡Mucho ánimo si decides lanzarte, y que no te falten las ganas!
 
