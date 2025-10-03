@@ -1,11 +1,15 @@
 <head>
   <style>
+    body, main, article {
+      max-width: 900px;
+      margin: auto;
+      text-align: justify;
+    }
     @media (prefers-color-scheme: dark) {
-      body {
+      body, main, article {
         background: #181818 !important;
         color: #e0e0e0 !important;
-        max-width: 900px;
-        margin: auto;
+        text-align: justify;
       }
       a { color: #9ecbff !important; }
       h1, h2, h3, h4 { color: #9ecbff !important; }
