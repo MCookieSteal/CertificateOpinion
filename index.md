@@ -1,7 +1,7 @@
 <head>
   <style>
     body, main, article {
-      max-width: 900px;
+      max-width: 70%;
       margin: auto;
       text-align: justify;
     }
@@ -18,7 +18,8 @@
   </style>
 </head>
 
-## 1. Introducción  
+## 1. Introducción
+---
 Buenas a todos, hoy quiero comentaros un poco acerca del certificado de INE, el eCPPTv3.  
 La verdad, cuando empecé con esto no tenía muy claro si realmente valía la pena invertir tiempo y dinero en otro papelito más, pero después de pasar por todo el proceso, tengo algunas cosas que creo que pueden ayudaros si estáis dudando.  
 No esperéis aquí una review súper técnica ni nada por el estilo, voy a contaros mi experiencia tal y como lo viví, con lo bueno, lo malo y algún que otro consejo de supervivencia para el examen. Así que si estáis pensando en lanzaros a por el eCPPTv3, seguid leyendo, que igual os ahorro algún que otro dolor de cabeza.
@@ -29,10 +30,8 @@ Vale, si nunca has oído hablar del eCPPTv3, básicamente es una certificación 
 - **Motivación personal:**  
 Yo me animé porque quería una certi que fuera práctica y que no estuviera atada a exámenes súper estresantes en cuento a precio/intentos/duración del examen (spoiler, eso no existe). Y, para qué negarlo, para poder decir "eh, tengo el eCPPTv3" también suma puntos en el mundo del "pentesting" y en LinkedIn (no nos engañemos, somos todos iguales).
 
----
-
 ## 2. Proceso de Estudio
-
+---
 - **Recursos utilizados:**  
 Aquí no hay truco mágico, tiré sobre todo del material oficial de eLearnSecurity, que viene bastante completo, pero tampoco me quedé solo con eso, ya que os voy avisando desde ahora, tan solo con el material de INE, no es posible aprobar el examen sobre todo esto va más por la parte del AD (dependiendo de tu nivel claro). Use mucho el tema de páginas CTF sobre todo en plataformas como HackTheBox y TryHackMe, de estas dos os recomiendo muchísimo más HackTheBox con el plan mensual que en España me costó unos 21€ (si le metes caña en un mes, es más que suficiente). Por otro lado, también existe un "laboratorio" de Directorio Activo que se llama GOAD, que quizás es algo complejo de instalar, pero una vez instalado y configurado, está muy muy bien para preparar sobre todo el tema del AD. Por supuesto, también me ayudaron algunos blogs y vídeos en YouTube para aclarar dudas cuando me atascaba con alguna cosilla.
 
@@ -42,10 +41,8 @@ El temario es largo y toca casi todos los palos: redes, web, sistemas Windows y 
 - **Tiempo de preparación recomendado:**  
 Esto depende mucho de cada uno y del tiempo libre que tengas, pero yo le dediqué entre dos y cuatro meses, en mi caso la certificación no era lo principal ya que lo he combinado con el trabajo, estudios (Ingeniería Informática) y vida social. Si eres constante y te pones a practicar casi a diario, en dos meses puedes ir bastante preparado. Si te lo tomas con calma, tampoco pasa nada, pero intenta no dejarlo abandonado mucho tiempo porque luego cuesta volver a pillar el ritmo y sobre todo es posible que al ser un temario tan largo, se te olviden cosas del inicio, por lo que lo más importante es ser constante.
 
----
-
 ## 3. Experiencia con el Examen
-
+---
 - **Formato y duración:**  
 Aquí viene lo divertido (y el estrés): el examen es 100% práctico y te dan 24 horas para darle caña. Durante ese tiempo, tienes que ir contestando a unas 45 preguntas sobre lo que vas haciendo, mientras te peleas con un entorno bastante real, con sistemas que tienes que comprometer. Aqui es importante mencionar que las 45 preguntas son de tipo test con 4 respuestas posibles, excepto en algunos casos en los que toca escribir respuesat concretas.
 
@@ -54,10 +51,8 @@ Para mí, lo más complicado fue no poder usar mi máquina virtual ni mis herram
 
   Ni mencionar cabe que en el examen es posible que te atasques, como fue mi caso, pero lo importante en esos casos es levantarte tomar un poco de aire y seguir. Esto es algo que mucha gente no le da importancia, entre ellos yo, pero en este certificado me di cuenta que es mas que necesario tomar un poco de aire para seguir (personalmente una ducha me refresca las ideas).
 
----
-
 ## 4. Recomendaciones y consejos para el examen
-
+---
 - **Consejo 1: Herramientas**  
 Acostúmbrate a usar las herramientas que ya vienen instaladas en la máquina del examen (las mismas que en el curso, nada nuevo), porque no tienes acceso a internet y no vas a poder descargarte nada nuevo. Antes de presentarte, practica bastante con las utilidades básicas y asegúrate de saber moverte sin depender de tus comodidades habituales. Además, es súper recomendable que tengas alternativas a las herramientas, ya que es posible que alguna no te funcione (a mí me pasó). Cuanto más versátil seas con lo que te dan, mejor te va a ir.
 
@@ -80,10 +75,8 @@ Mucha gente te dirá que tomes apuntes y al final respondas las preguntas, pero 
 - **Consejo 5: Porcentajes y máquinas**  
 No sé si todos los exámenes son iguales o si en el caso del "re-take" el examen es el mismo (yo aprobé a la primera), pero en mi examen el 30% era explotación sobre Linux y el 70% sobre Active Directory. Eso sí, bajo mi experiencia, casi la mitad (un 40% aprox.) de las preguntas fueron sobre Linux, es decir, que si eres capaz de "rootearlo", tendrás mucho hecho para llegar al 70%, por eso recomiendo que empecemos por esta máquina y os la quitéis de encima.
 
----
-
 ## 5. Contenido del examen
-
+---
 - **Pentesting web:**  
 Aquí se tratan las vulnerabilidades más típicas, como las del OWASP Top 10: SQLi, XSS, LFI/RFI, entre otras. Vas a tener que buscar fallos en aplicaciones web y explotarlos, pero no es nada fuera de lo común y, en este caso, con el contenido del curso serás capaz de lograrlo. Recomiendo empezar por esta máquina, que básicamente es la Linux, y que intentéis "rootearla" cuanto antes.
 
@@ -97,15 +90,13 @@ Cuando ya tienes el control, tendrás que buscar cosas como credenciales, asegur
 Una parte importante del examen es aprender a moverte por entornos de Active Directory, que representa casi un 70% del examen. Aquí tendrás que buscar usuarios, grupos, permisos y aprovechar debilidades para escalar dentro del dominio. Si nunca has atacado AD, te recomiendo practicar bastante antes porque puede ser un mundo aparte. Es muy importante que sepas enumerar prácticamente todo; aquí es posible que Bloodhound te ayude bastante.
 
 Creo que no se me olvida mencionar nada respecto a lo que entra y lo que no, así que ya sabéis qué podéis descartar y a qué darle más importancia. Eso sí, teniendo en cuenta que se ha pagado la certificación y el curso, recomiendo revisarlo todo, ya que hay temas interesantes, como el uso de macros en Excel o el phishing.
-  
----
 
 ## 6. Conclusión
-
+---
 Después de todo el proceso, puedo decir que el eCPPTv3 es una certificación muy completa para aprender pentesting de forma práctica y realista, pero no la recomiendo para principiantes. Si buscas una experiencia donde realmente tengas que pensar, investigar y aplicar lo que has aprendido, creo que esta certificación te va a aportar bastante. El examen, aunque intenso, está muy bien planteado y te obliga a salir de la zona de confort.
 
 En cuanto a nivel, por lo que he hablado con compañeros y lo que he podido comparar, el eCPPTv3 está bastante cerca del OSCP en cuanto a contenido, pero con la ventaja de ser más asequible económicamente y algo más flexible en la realización del examen. Así que si tienes claro que quieres mejorar tus habilidades prácticas en pentesting y buscas una alternativa al OSCP, esta es una opción que merece la pena. Eso sí, prepárate para trabajar y no subestimes el temario ni el examen.
 
 Al final, como en todo, lo que cuenta es lo que aprendes y cómo lo aplicas. El certificado está bien para LinkedIn y para el trabajo, pero la verdadera satisfacción viene de superar el reto y sentir que eres capaz de enfrentarte a entornos reales. ¡Mucho ánimo si decides lanzarte, y que no te falten las ganas!
 
----
+
