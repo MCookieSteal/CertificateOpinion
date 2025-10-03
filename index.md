@@ -10,6 +10,7 @@
         background: #181818 !important;
         color: #e0e0e0 !important;
         text-align: justify;
+        max-width: 70%;
       }
       a { color: #9ecbff !important; }
       h1, h2, h3, h4 { color: #9ecbff !important; }
