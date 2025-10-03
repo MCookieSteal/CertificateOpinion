@@ -1,5 +1,3 @@
-# Opinión y Experiencia: Certificado eCPPTv3 (Ethical Hacking and Penetration Testing Professional) de INE
-
 ## 1. Introducción  
 Buenas a todos, hoy quiero comentaros un poco acerca del certificado de INE, el eCPPTv3.  
 La verdad, cuando empecé con esto no tenía muy claro si realmente valía la pena invertir tiempo y dinero en otro papelito más, pero después de pasar por todo el proceso, tengo algunas cosas que creo que pueden ayudaros si estáis dudando.  
